@@ -1,0 +1,12 @@
+# Ignore the virtual environment directory
+djangoEnv/
+
+# Python bytecode cache files
+__pycache__/
+*.pyc
+*.pyo
+
+
+
+# Log files
+*.log
